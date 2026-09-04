@@ -1,5 +1,12 @@
 # API Gateway - Pet Clinic Microservices
 
+## 👤 Student & Project Metadata
+
+- **Student Name**: Oshadha Sankalpa Thambavita
+- **Student Number**: 241711043
+- **Slack Handle**: Oshadha Thambavita
+- **GCP ID**: eca-petclinic-241711043
+
 Unified Entry Point and Routing Engine for the Pet Clinic polyrepo microservices application, built with **Spring Boot 3.4.3**, **Spring Cloud Gateway (2024.0.0)**, and **Java 25**.
 
 ## Features
